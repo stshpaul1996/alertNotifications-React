@@ -1,0 +1,15 @@
+.notification {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  border: 1px solid #64748b;
+  border-radius: 12px;
+  margin-bottom: 15px;
+  padding: 20px;
+}
+
+.notification-content {
+  display: flex;
+  justify-content: center;
+}
